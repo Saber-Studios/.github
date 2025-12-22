@@ -1,7 +1,6 @@
-## Hi there 👋
 <img width="1166" height="1167" alt="image" src="https://github.com/user-attachments/assets/5aaa5f6c-f076-484b-b704-465c9ca76aa4" />
 
-We are a group of passion modders called Saber Studios. We primarily focus on simulation games such as Arma Reforger and Farming Simulator 25.
+<strong>Saber Studios</strong> is a collective of passionate developers focused on creating immersive, realistic mods for simulation-heavy games. Our goal is to enhance authenticity, performance, and gameplay depth.
 
 
 <!--
