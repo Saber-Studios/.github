@@ -1,4 +1,4 @@
-<img width="1166" height="1167" alt="image" src="https://github.com/Saber-Studios/Saber-Studios.github.io/blob/58bde3136c4b304799cac6143b1961e26aa82360/assets/upload/LargeLogo.png" />
+<img width="500" height="500" alt="image" src="https://github.com/Saber-Studios/Saber-Studios.github.io/blob/58bde3136c4b304799cac6143b1961e26aa82360/assets/upload/LargeLogo.png" />
 
 <strong>Saber Studios</strong> is a collective of passionate developers focused on creating immersive, realistic mods for simulation-heavy games. Our goal is to enhance authenticity, performance, and gameplay depth.
 
